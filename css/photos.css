@@ -19,7 +19,7 @@ body {
     background: linear-gradient(135deg, #f5c43c 0%, #548604 100%);
     background-repeat: no-repeat;
     width: 545px;
-    height: 300vh;
+    height: 600vh;
     color: #222;
 }
 
@@ -244,7 +244,7 @@ a{
     padding: 3rem 1rem;
     text-align: center;
     position:absolute;
-    top: 300vh;
+    top: 600vh;
     z-index: 0;
     width:1232px;
 

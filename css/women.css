@@ -18,7 +18,7 @@ body {
     background: linear-gradient(135deg, #f5c43c 0%, #548604 100%);
     background-repeat: no-repeat;
     width: 545px;
-    height: 200vh;
+    height: 400vh;
     color: #222;
 }
 a{
@@ -210,7 +210,7 @@ a{
             padding: 3rem 1rem;
             text-align: center;
             position:absolute;
-            top: 200vh;
+            top: 400vh;
             z-index: 0;
             width:1232px;
         }
